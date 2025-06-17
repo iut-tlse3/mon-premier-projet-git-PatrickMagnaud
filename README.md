@@ -1,10 +1,10 @@
 # Mon premier projet Git
 
-### LAST NAME : DOE
-### First name : John
+### LAST NAME : Magnaud
+### First name : Patrick
 ### TP group :
 - [ ] a
-- [ ] b
+- [X] b
 
 
 ## Le fichier Activites_enonce.pdf
