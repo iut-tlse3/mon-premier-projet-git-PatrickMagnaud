@@ -1,0 +1,1 @@
+Kotlin semble typé alors que Python semble ne pas l'être
